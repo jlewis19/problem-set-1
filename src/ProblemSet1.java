@@ -15,8 +15,21 @@ public class ProblemSet1 {
 	
 	public static void main(String[] args) {
 		System.out.println("/// EXERCISE 1 /////////////////////////////////////////////////\n");
+		System.out.println("   ##    ######  ######## ########");
+		System.out.println("  #  #   #     # #        #       ");
+		System.out.println(" #    #  #     # #        #       ");
+		System.out.println("######## ######  #        ########");
+		System.out.println("#      # #       #               #");
+		System.out.println("#      # #       #               #");
+		System.out.println("#      # #       ######## ########\n");
 		
 		System.out.println("/// EXERCISE 2 /////////////////////////////////////////////////\n");
+		System.out.println("  /\\    /\\    /\\  ");
+		System.out.println(" /  \\  /  \\  /  \\ ");
+		System.out.println("/    \\/    \\/    \\");
+		System.out.println("\\    /\\    /\\    /");
+		System.out.println(" \\  /  \\  /  \\  / ");
+		System.out.println("  \\/    \\/    \\/  ");
 		
 		System.out.println("/// EXERCISE 3 /////////////////////////////////////////////////\n");
 		
